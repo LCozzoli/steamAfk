@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/LCozzoli/steamAfk/issues"
   },
-  "homepage": "https://github.com/LCozzoli/steamAfk#readme"
+  "homepage": "https://github.com/LCozzoli/steamAfk#readme",
+  "dependencies": {
+    "scribe-js": "^2.0.4",
+    "steam-client": "^2.5.8",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.15.3"
+  }
 }

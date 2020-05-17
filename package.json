@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/LCozzoli/steamAfk#readme",
   "dependencies": {
+    "death": "^1.1.0",
     "scribe-js": "^2.0.4",
     "steam-client": "^2.5.8",
     "steam-totp": "^2.1.1",

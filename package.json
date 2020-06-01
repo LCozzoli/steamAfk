@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/LCozzoli/steamAfk#readme",
   "dependencies": {
+    "async": "^3.2.0",
     "death": "^1.1.0",
+    "prompt-promise": "^1.0.3",
     "scribe-js": "^2.0.4",
     "steam-client": "^2.5.8",
     "steam-totp": "^2.1.1",

@@ -19,8 +19,6 @@ Edit the cfg.json file with your accounts details
    {
       "details":{
          "username": "account1",
-         "password": "account1pw",
-         "shared": ""
       },
       "games":[
          730
@@ -35,8 +33,7 @@ Edit the cfg.json file with your accounts details
       },
       "games":[
          730
-      ],
-      "proxy":null
+      ]
    }
 ]
 ```

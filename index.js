@@ -3,7 +3,7 @@ const async = require("async");
 const prompt = require("prompt-promise");
 const accounts = require("./cfg");
 
-async.eachSeries(
+async.eachOfSeries(
   accounts,
   (account, id, next) => {
     if (!account.details || !account.details.username)
